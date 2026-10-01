@@ -27,15 +27,15 @@ Um jogo no estilo **Endless Runner vertical** (inspirado em *Subway Surfers*) de
 
 ---
 
-## 🕹️ Controles
+## 🕹️ Controles (Teclado e Touch / Mobile)
 
-| Tecla | Ação |
-| :---: | :--- |
-| **Qualquer Tecla** | Inicia a partida (sai do modo `IDLE`) |
-| **Seta para Esquerda (`Left`)** | Move para a faixa da esquerda |
-| **Seta para Direita (`Right`)** | Move para a faixa da direita |
-| **Seta para Cima (`Up`)** | Salta sobre obstáculos baixos (`ObsBaixo`) |
-| **Seta para Baixo (`Down`)** | Desliza sob obstáculos altos (`ObsAlto`) |
+| Teclado (PC) | Touch / Mouse (Celular) | Ação |
+| :---: | :---: | :--- |
+| **Qualquer Tecla** | **Toque na Tela** | Inicia a partida (sai do modo `IDLE`) |
+| **Seta para Esquerda (`Left`)** | **Deslizar (Swipe) para Esquerda** | Move para a faixa da esquerda |
+| **Seta para Direita (`Right`)** | **Deslizar (Swipe) para Direita** | Move para a faixa da direita |
+| **Seta para Cima (`Up`)** | **Deslizar (Swipe) para Cima** | Salta sobre obstáculos baixos (`ObsBaixo`) |
+| **Seta para Baixo (`Down`)** | **Deslizar (Swipe) para Baixo** | Desliza sob obstáculos altos (`ObsAlto`) |
 
 ---
 
